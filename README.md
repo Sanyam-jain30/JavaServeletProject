@@ -91,7 +91,9 @@ Signupadd.java – It will validate the credentials given by user/superuser in s
 
 
 Result and discussion
+
 The functionality of all pagesis:
+
 Main – The main page from which the website begins directs to the login page, signup page and it’s me page. 
 ![mainpage](https://user-images.githubusercontent.com/78720027/192109133-15decc8f-44cd-4d2e-92df-a24ce8d925e4.png)
 
@@ -113,6 +115,7 @@ It’s me – It will contain all the database lists and the data inside them wi
 
 
 Home – It contains the image, name, and price of each item and in the navbar it contains Payment, booking, user name, sign out option and if the user is not a superuser then it will have an option of Superuser else it will have the option of Manage products. 
+
 For User:
 ![home page for user](https://user-images.githubusercontent.com/78720027/192109199-48fbd955-03a4-47bc-b0be-27d61ffe0fa3.png)
 
@@ -130,6 +133,7 @@ Booking – Here a user can book or cancel a booking ofthe product and likewise 
 
 
 Sign out – It will direct the user to the login page.
+
 For User:
 ![home page for user](https://user-images.githubusercontent.com/78720027/192109199-48fbd955-03a4-47bc-b0be-27d61ffe0fa3.png)
 
