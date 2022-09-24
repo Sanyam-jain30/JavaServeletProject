@@ -1,0 +1,78 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28-Nov-2021, 10:55:28 pm
+    Author     : SANYAM
+*/
+
+.un, .book{
+    position: absolute;
+    font-size: 2.2rem;
+    color: blueviolet;
+    top: 0;
+    right: 150px;
+    margin: 0;
+}
+.book{
+    font-size: 1.5rem;
+    right: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.book:hover{
+    color: white;
+    background-color: black;
+}
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.lform{
+    float: left;
+    width: 49%;
+    text-align: center;
+    margin-top: 30px;
+    border-right: 2px solid black;
+}
+.rform{
+    float: right;
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+}
+input{
+    margin: 10px;
+}
+.button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 40px 40px #3498db inset,
+                0 0 0 0 #3498db;
+    transition: all 150ms ease-in-out;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: black;
+    box-shadow: 0 0 10px 0 #3498db inset,
+                0 0 10px 4px #3498db;
+}
+.booked{
+    display: block;
+    margin-top: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: 1.4rem;
+}
+.booked h1{
+    font-size: 1.8rem;
+}
+.booked table{
+    margin: auto;
+}
